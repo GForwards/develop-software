@@ -1,0 +1,4 @@
+## 一、markdown编写工具 ##
+**markdownpad 2下载   **：[https://blog.csdn.net/qq_41727666/article/details/84576584?biz_id=102&utm_term=markdownpad2%E7%A0%B4%E8%A7%A3%E7%89%88&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-84576584&spm=1018.2118.3001.4449](https://blog.csdn.net/qq_41727666/article/details/84576584?biz_id=102&utm_term=markdownpad2%E7%A0%B4%E8%A7%A3%E7%89%88&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-84576584&spm=1018.2118.3001.4449 "https://blog.csdn.net/qq_41727666/article/details/84576584?biz_id=102&utm_term=markdownpad2%E7%A0%B4%E8%A7%A3%E7%89%88&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-84576584&spm=1018.2118.3001.4449")
+
+**没有预览功能的  markText, 直接到官网去下载** 
